@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+“Created a reusable form input component in React that includes a label and built-in validation. This component can be easily reused across the app, ensuring consistent styling, behavior, and form validation logic while reducing code duplication."
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
